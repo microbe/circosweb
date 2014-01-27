@@ -1,0 +1,80 @@
+#kform
+{ 
+     width:600px;
+     position:relative;
+     top:5px;
+     left:10px;
+     
+     display: block; 
+     margin: 20px auto; 
+     background: #A9A9A9; 
+     border-radius: 5px; 
+     padding: 10px } 
+
+.kprogress 
+{ 
+     position:relative; 
+     width:300px; 
+     border: 1px solid #ddd; 
+     padding: 1px; 
+     border-radius: 3px; 
+} 
+
+.kbar 
+{ 
+     background-color: #B4F5B4; 
+     width:0%; 
+     height:20px; 
+     border-radius: 3px; 
+} 
+
+.kpercent 
+{ 
+     position:absolute; 
+     display:inline-block; 
+     top:3px; 
+     left:48%; 
+} 
+
+
+
+#ideotext1
+{
+     display:none;
+}
+
+#radiusdata1
+{
+     display:none;
+}
+
+#ticks
+{
+     display:none;
+}
+
+#zoomstext1
+{
+     display:none;
+}
+
+#out_highlightdiv1
+{
+     display:none;
+}
+
+/* form2_a_div, scatter settings begin                  */
+#form2_a_1div
+{
+  display:none;
+}
+/* form2_a_div, scatter settings end                         */
+
+
+/*inner data visualization settings begin*/
+#inlinksdiv,#innerdiv,#form3a,#form3b,#dt4div,#dt5div,#dt6div,#dt7div,#dt8div,#dt9div,#form3b4,#form3b5,#form3b6,#form3b7,#form3b8,#form3b9,#inother4choose,#inother5choose,#inother6choose,#inother7choose,#inother8choose,#inother9choose,#form3b4s,#form3b5s,#form3b6s,#form3b7s,#form3b8s,#form3b9s,#form3bchoice,#form4bchoice,
+#form5bchoice,#form6bchoice,#form7bchoice,#form8bchoice,#form9bchoice
+{
+     display:none;
+}
+

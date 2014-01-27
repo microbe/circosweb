@@ -1,0 +1,1 @@
+1hide,rectangle,0hide,circle
